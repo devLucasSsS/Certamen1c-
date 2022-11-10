@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2wW3cm8fxUpe96VAzIU2K85WRyggyQyUXav5hjQgZaM/WeLs8pr7+Pj+86z+5FpBDrrFoyhcaW/RfHrzMWU+yA==",
+  "success": true,
+  "projectFilePath": "D:\\vsRepos\\precertamen1\\Negocio\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

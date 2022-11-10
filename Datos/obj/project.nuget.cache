@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Keu/CXxA9yLCBfoQ26mmCkHFyKCPTDusEc7h907R0AR2LnCacwSNohEZNpS3HQAeR60jWyz/uH58T/TUkVvWmg==",
+  "success": true,
+  "projectFilePath": "D:\\vsRepos\\precertamen1\\Datos\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lucas PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

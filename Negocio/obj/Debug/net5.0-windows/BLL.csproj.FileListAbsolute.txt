@@ -1,0 +1,15 @@
+D:\vsRepos\precertamen1\Negocio\bin\Debug\net5.0-windows\BLL.deps.json
+D:\vsRepos\precertamen1\Negocio\bin\Debug\net5.0-windows\BLL.dll
+D:\vsRepos\precertamen1\Negocio\bin\Debug\net5.0-windows\BLL.pdb
+D:\vsRepos\precertamen1\Negocio\bin\Debug\net5.0-windows\DAL.dll
+D:\vsRepos\precertamen1\Negocio\bin\Debug\net5.0-windows\DAL.pdb
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.csproj.AssemblyReference.cache
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.AssemblyInfoInputs.cache
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.AssemblyInfo.cs
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.csproj.CoreCompileInputs.cache
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.csproj.CopyComplete
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.dll
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\refint\BLL.dll
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\BLL.pdb
+D:\vsRepos\precertamen1\Negocio\obj\Debug\net5.0-windows\ref\BLL.dll

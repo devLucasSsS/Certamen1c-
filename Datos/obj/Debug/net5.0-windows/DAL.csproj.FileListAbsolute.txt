@@ -1,0 +1,12 @@
+D:\vsRepos\precertamen1\Datos\bin\Debug\net5.0-windows\DAL.deps.json
+D:\vsRepos\precertamen1\Datos\bin\Debug\net5.0-windows\DAL.dll
+D:\vsRepos\precertamen1\Datos\bin\Debug\net5.0-windows\DAL.pdb
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\DAL.csproj.AssemblyReference.cache
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\DAL.AssemblyInfoInputs.cache
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\DAL.AssemblyInfo.cs
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\DAL.csproj.CoreCompileInputs.cache
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\DAL.dll
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\refint\DAL.dll
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\DAL.pdb
+D:\vsRepos\precertamen1\Datos\obj\Debug\net5.0-windows\ref\DAL.dll

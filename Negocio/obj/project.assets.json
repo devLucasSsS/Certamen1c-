@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../Datos/DAL.csproj",
+      "msbuildProject": "../Datos/DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "DAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lucas PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\vsRepos\\precertamen1\\Negocio\\BLL.csproj",
+      "projectName": "BLL",
+      "projectPath": "D:\\vsRepos\\precertamen1\\Negocio\\BLL.csproj",
+      "packagesPath": "C:\\Users\\Lucas PC\\.nuget\\packages\\",
+      "outputPath": "D:\\vsRepos\\precertamen1\\Negocio\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lucas PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\vsRepos\\precertamen1\\Datos\\DAL.csproj": {
+              "projectPath": "D:\\vsRepos\\precertamen1\\Datos\\DAL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
